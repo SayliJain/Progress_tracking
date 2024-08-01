@@ -13,7 +13,7 @@ import time
 import os
 
 # Set your OpenAI API key
-os.getenv("OPENAI_API_KEY")
+openai.api_key =  os.getenv("OPENAI_API_KEY")
 
 # SSL context setup for secure connections
 ssl_context = ssl.create_default_context(cafile=certifi.where())
