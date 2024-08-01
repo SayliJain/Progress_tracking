@@ -1,0 +1,9 @@
+aiohttp
+streamlit
+pandas
+openai
+PyPDF2
+python-docx
+certifi
+matplotlib
+seaborn
